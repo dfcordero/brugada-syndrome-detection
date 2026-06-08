@@ -1,0 +1,26 @@
+# ─── Datos crudos PhysioNet (descargar con wget o physionet-client) ──────────
+brugada_data/
+ptb_xl_data/
+
+# ─── Arrays numpy generados (se regeneran ejecutando los scripts) ────────────
+*.npy
+*.npz
+
+# ─── Modelos entrenados (demasiado grandes para GitHub) ──────────────────────
+*.keras
+*.h5
+*.hdf5
+
+# ─── Entornos Python ─────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# ─── Sistema ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
