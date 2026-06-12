@@ -199,7 +199,7 @@ The LSTM uses `recurrent_dropout=0` to enable the cuDNN fast path. On a laptop G
 ## Citation
 
 Dataset:
-> Martínez-Sellés M, et al. "Brugada ECG Database from Hospital Universitario Central de Asturias (HUCA)." PhysioNet (2021). https://doi.org/10.13026/g8sm-1m65
+> Martínez-Sellés M, et al. "Brugada ECG Database from Hospital Universitario Central de Asturias (HUCA)." PhysioNet (2021). https://doi.org/10.13026/0m2w-dy83
 
 PTB-XL:
 > Wagner P, et al. "PTB-XL, a large publicly available electrocardiography dataset." Scientific Data 7, 154 (2020). https://doi.org/10.1038/s41597-020-0495-6
